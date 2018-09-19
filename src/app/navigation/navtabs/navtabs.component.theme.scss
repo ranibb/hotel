@@ -1,0 +1,7 @@
+@mixin navtabs-component-theme($theahotel) {
+
+    // Put all your theming here
+    .navtabs-container {
+        background-color: mat-color($theahotel-primary, 200);
+    }
+};
